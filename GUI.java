@@ -48,11 +48,11 @@ public class GUI implements Runnable {
         JTextField name4 = new JTextField(this.names.get(3));
         JTextField name5 = new JTextField(this.names.get(4));
         
-        name1.setFont(new Font("Arial", Font.BOLD, 20));
-        name2.setFont(new Font("Arial", Font.BOLD, 20));
-        name3.setFont(new Font("Arial", Font.BOLD, 20));
-        name4.setFont(new Font("Arial", Font.BOLD, 20));
-        name5.setFont(new Font("Arial", Font.BOLD, 20));
+        name1.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
+        name2.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
+        name3.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
+        name4.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
+        name5.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
         
         name1.setEditable(false);
         name2.setEditable(false);
